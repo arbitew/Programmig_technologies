@@ -1,0 +1,11 @@
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_8\Lab_8\bin\Debug\Lab_8.exe.config
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_8\Lab_8\bin\Debug\Lab_8.exe
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_8\Lab_8\bin\Debug\Lab_8.pdb
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.AssemblyReference.cache
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.SuggestedBindingRedirects.cache
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_8\Lab_8\obj\Debug\Lab_8.Form1.resources
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_8\Lab_8\obj\Debug\Lab_8.Properties.Resources.resources
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.GenerateResource.cache
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.CoreCompileInputs.cache
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_8\Lab_8\obj\Debug\Lab_8.exe
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_8\Lab_8\obj\Debug\Lab_8.pdb
