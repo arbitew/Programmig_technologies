@@ -1,0 +1,22 @@
+D:\РХТУ\Studying\Course 2\semester 4\Operating system\Lab_7\Lab_7\bin\Debug\Lab_7.exe.config
+D:\РХТУ\Studying\Course 2\semester 4\Operating system\Lab_7\Lab_7\bin\Debug\Lab_7.exe
+D:\РХТУ\Studying\Course 2\semester 4\Operating system\Lab_7\Lab_7\bin\Debug\Lab_7.pdb
+D:\РХТУ\Studying\Course 2\semester 4\Operating system\Lab_7\Lab_7\obj\Debug\Lab_7.csproj.AssemblyReference.cache
+D:\РХТУ\Studying\Course 2\semester 4\Operating system\Lab_7\Lab_7\obj\Debug\Lab_7.csproj.SuggestedBindingRedirects.cache
+D:\РХТУ\Studying\Course 2\semester 4\Operating system\Lab_7\Lab_7\obj\Debug\Lab_7.Form1.resources
+D:\РХТУ\Studying\Course 2\semester 4\Operating system\Lab_7\Lab_7\obj\Debug\Lab_7.Properties.Resources.resources
+D:\РХТУ\Studying\Course 2\semester 4\Operating system\Lab_7\Lab_7\obj\Debug\Lab_7.csproj.GenerateResource.cache
+D:\РХТУ\Studying\Course 2\semester 4\Operating system\Lab_7\Lab_7\obj\Debug\Lab_7.csproj.CoreCompileInputs.cache
+D:\РХТУ\Studying\Course 2\semester 4\Operating system\Lab_7\Lab_7\obj\Debug\Lab_7.exe
+D:\РХТУ\Studying\Course 2\semester 4\Operating system\Lab_7\Lab_7\obj\Debug\Lab_7.pdb
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_7\Lab_7\bin\Debug\Lab_7.exe.config
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_7\Lab_7\bin\Debug\Lab_7.exe
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_7\Lab_7\bin\Debug\Lab_7.pdb
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_7\Lab_7\obj\Debug\Lab_7.csproj.AssemblyReference.cache
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_7\Lab_7\obj\Debug\Lab_7.csproj.SuggestedBindingRedirects.cache
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_7\Lab_7\obj\Debug\Lab_7.Form1.resources
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_7\Lab_7\obj\Debug\Lab_7.Properties.Resources.resources
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_7\Lab_7\obj\Debug\Lab_7.csproj.GenerateResource.cache
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_7\Lab_7\obj\Debug\Lab_7.csproj.CoreCompileInputs.cache
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_7\Lab_7\obj\Debug\Lab_7.exe
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_7\Lab_7\obj\Debug\Lab_7.pdb
