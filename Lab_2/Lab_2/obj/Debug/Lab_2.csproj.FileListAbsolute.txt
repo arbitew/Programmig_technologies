@@ -1,0 +1,8 @@
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.SuggestedBindingRedirects.cache
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+D:\РХТУ\Studying\Course 2\semester 4\Programming_technologies\Lab_2\Lab_2\obj\Debug\Lab_2.pdb
